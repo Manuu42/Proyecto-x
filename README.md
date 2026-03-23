@@ -1,2 +1,3 @@
 # Proyecto-x
-plasmar ideas
+<--Nuestra primera web-->
+contenidos del curso 2026
